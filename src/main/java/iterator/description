@@ -1,0 +1,7 @@
+برای پیمایش بین داده ها
+maven :
+lifecycle :
+clean -> source خالص
+site -> validate + compile + test + war + deploy
+install -> test + validate + jar  داخل .m2
+conversion over configuration اصول سنتی فولدر بندی
